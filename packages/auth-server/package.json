@@ -1,0 +1,22 @@
+{
+  "name": "auth-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Su-Yong/auth.git"
+  },
+  "author": "Su-Yong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Su-Yong/auth/issues"
+  },
+  "homepage": "https://github.com/Su-Yong/auth#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
